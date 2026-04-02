@@ -236,13 +236,38 @@ def _format_stars(n: int | None) -> str:
     return str(n)
 
 
-def _invert_date(iso: str) -> str:
-    """Return a string that sorts inversely to the ISO date (newest first)."""
+def _activity_bucket(iso: str, archived: bool) -> str:
+    """Classify a repo into an activity bucket based on last push date."""
+    if archived:
+        return "Archived"
     if not iso:
-        return "~"
-    return "".join(
-        chr(ord("9") - ord(c) + ord("0")) if c.isdigit() else c for c in iso
-    )
+        return "Unknown"
+    try:
+        dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        days = (datetime.now(timezone.utc) - dt).days
+        if days <= 7:
+            return "Updated this week"
+        if days <= 30:
+            return "Updated this month"
+        if days <= 180:
+            return "Updated in the last 6 months"
+        if days <= 365:
+            return "Updated in the last year"
+        return "Updated more than a year ago"
+    except Exception:
+        return "Unknown"
+
+
+# Ordered bucket labels, from most active to least.
+BUCKET_ORDER = [
+    "Updated this week",
+    "Updated this month",
+    "Updated in the last 6 months",
+    "Updated in the last year",
+    "Updated more than a year ago",
+    "Unknown",
+    "Archived",
+]
 
 
 def _time_ago(iso: str) -> str:
@@ -306,44 +331,57 @@ def _generate_readme(sections: list[dict]) -> str:
         if not sec["entries"]:
             continue
 
-        # Sort: active repos by most recent push first, archived at the bottom
-        def _sort_key(entry: dict) -> tuple:
+        # Group entries into activity buckets
+        buckets: dict[str, list[dict]] = {}
+        for entry in sec["entries"]:
             meta = entry.get("meta") or {}
-            archived = 1 if meta.get("archived") else 0
-            pushed = meta.get("pushed_at", "")
-            return (archived, "" if pushed else "0", _invert_date(pushed))
+            bucket = _activity_bucket(
+                meta.get("pushed_at", ""), meta.get("archived", False)
+            )
+            buckets.setdefault(bucket, []).append(entry)
 
-        sorted_entries = sorted(sec["entries"], key=_sort_key)
+        # Sort each bucket alphabetically by name for stability
+        for bucket_entries in buckets.values():
+            bucket_entries.sort(key=lambda e: e["name"].lower())
 
-        lines.append("| Repository | Stars | Last Push | Commits | Description |")
-        lines.append("|:---|---:|:---:|---:|:---|")
+        # Render each non-empty bucket as a sub-table
+        for bucket_label in BUCKET_ORDER:
+            bucket_entries = buckets.get(bucket_label)
+            if not bucket_entries:
+                continue
 
-        for entry in sorted_entries:
-            meta = entry["meta"]
-            name = entry["name"]
-            url = entry["url"]
+            sub_hashes = "#" * (sec["level"] + 1)
+            lines.append(f"{sub_hashes} {bucket_label}")
+            lines.append("")
+            lines.append("| Repository | Stars | Last Push | Commits | Description |")
+            lines.append("|:---|---:|:---:|---:|:---|")
 
-            if meta:
-                stars = _format_stars(meta.get("stars"))
-                pushed = _time_ago(meta.get("pushed_at", ""))
-                commits = f"{meta['commits']:,}" if meta.get("commits") else ""
-                desc = meta.get("description") or entry["desc"] or ""
-                desc = desc.rstrip()
-                if desc and not desc.endswith((".", "!", "?")):
-                    desc += "."
-                if meta.get("archived"):
-                    name = f"~~{name}~~ (archived)"
-                lang = f" `{meta['language']}`" if meta.get("language") else ""
-                lines.append(
-                    f"| [{name}]({url}){lang} | {stars} | {pushed} | {commits} | {desc} |"
-                )
-            else:
-                desc = entry["desc"] or ""
-                if desc and not desc.endswith((".", "!", "?")):
-                    desc += "."
-                lines.append(f"| [{name}]({url}) | | | | {desc} |")
+            for entry in bucket_entries:
+                meta = entry["meta"]
+                name = entry["name"]
+                url = entry["url"]
 
-        lines.append("")
+                if meta:
+                    stars = _format_stars(meta.get("stars"))
+                    pushed = _time_ago(meta.get("pushed_at", ""))
+                    commits = f"{meta['commits']:,}" if meta.get("commits") else ""
+                    desc = meta.get("description") or entry["desc"] or ""
+                    desc = desc.rstrip()
+                    if desc and not desc.endswith((".", "!", "?")):
+                        desc += "."
+                    if meta.get("archived"):
+                        name = f"~~{name}~~"
+                    lang = f" `{meta['language']}`" if meta.get("language") else ""
+                    lines.append(
+                        f"| [{name}]({url}){lang} | {stars} | {pushed} | {commits} | {desc} |"
+                    )
+                else:
+                    desc = entry["desc"] or ""
+                    if desc and not desc.endswith((".", "!", "?")):
+                        desc += "."
+                    lines.append(f"| [{name}]({url}) | | | | {desc} |")
+
+            lines.append("")
 
     # Footnotes
     lines.append("## Footnotes")
