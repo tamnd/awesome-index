@@ -2,7 +2,7 @@
 
 An auto-generated, enriched index of the [awesome](https://github.com/sindresorhus/awesome) list with stars, activity, and commit counts from the GitHub API.
 
-*Last updated: 2026-04-02 10:33 UTC*
+*Last updated: 2026-04-02 10:38 UTC*
 
 ## Contents
 
@@ -1231,7 +1231,7 @@ An auto-generated, enriched index of the [awesome](https://github.com/sindresorh
 | [Calculators](https://github.com/xxczaki/awesome-calculators) | 241 | 12d ago | 71 | 😎 A curated list of resources related to calculators! |
 | [Food](https://github.com/jzarca01/awesome-food) | 226 | 16d ago | 30 | A curated list of food related projects on Github. |
 | [Framer](https://github.com/podo/awesome-framer) | 614 | 11d ago | 79 | A curated list of awesome things related to Framer prototyping tool. |
-| [GraphQL](https://github.com/chentsulin/awesome-graphql) | 15.0k | 23d ago | 1,114 | Awesome list of GraphQL. |
+| [GraphQL](https://github.com/chentsulin/awesome-graphql) | 15.0k | 24d ago | 1,114 | Awesome list of GraphQL. |
 | [IRC](https://github.com/davisonio/awesome-irc) | 1.3k | 20d ago | 227 | A curated list of awesome IRC resources. |
 | [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) | 1.6k | 10d ago | 249 | Curated list of LaTeX awesomeness. |
 | [Quarto](https://github.com/mcanouil/awesome-quarto) | 2.1k | 10d ago | 517 | A curated list of Quarto talks, tools, examples & articles! Contributions welcome! |
@@ -1370,7 +1370,7 @@ An auto-generated, enriched index of the [awesome](https://github.com/sindresorh
 
 This list is generated automatically from the [sindresorhus/awesome](https://github.com/sindresorhus/awesome) source list. Metadata is fetched from the GitHub API and refreshed daily.
 
-Last generated on 2026-04-02 10:33 UTC.
+Last generated on 2026-04-02 10:38 UTC.
 
 ## Contributing
 

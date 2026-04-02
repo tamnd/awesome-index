@@ -26,6 +26,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md data.csv
           git diff --staged --quiet || git commit -m "Update index $(date -u +%Y-%m-%d)"
           git push

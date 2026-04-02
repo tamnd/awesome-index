@@ -9,6 +9,8 @@ and produces a well-organized, human-readable README.md.
 from __future__ import annotations
 
 import asyncio
+import csv
+import io
 import json
 import re
 import subprocess
@@ -28,6 +30,7 @@ AWESOME_RAW_URL = (
 )
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 OUTPUT_FILE = PROJECT_ROOT / "README.md"
+CSV_FILE = PROJECT_ROOT / "data.csv"
 CACHE_FILE = PROJECT_ROOT / ".cache.json"
 MAX_CONCURRENCY = 16
 CACHE_TTL = 86400  # 24 h
@@ -410,6 +413,64 @@ def _generate_readme(sections: list[dict]) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Generate CSV
+# ---------------------------------------------------------------------------
+
+CSV_COLUMNS = [
+    "category",
+    "name",
+    "url",
+    "owner",
+    "repo",
+    "stars",
+    "forks",
+    "open_issues",
+    "commits",
+    "language",
+    "license",
+    "description",
+    "created_at",
+    "pushed_at",
+    "archived",
+    "activity",
+]
+
+
+def _generate_csv(sections: list[dict]) -> str:
+    buf = io.StringIO()
+    writer = csv.DictWriter(buf, fieldnames=CSV_COLUMNS)
+    writer.writeheader()
+
+    for sec in sections:
+        for entry in sorted(sec["entries"], key=lambda e: e["name"].lower()):
+            meta = entry.get("meta") or {}
+            writer.writerow(
+                {
+                    "category": sec["title"],
+                    "name": entry["name"],
+                    "url": entry["url"],
+                    "owner": entry["owner"],
+                    "repo": entry["repo"],
+                    "stars": meta.get("stars", ""),
+                    "forks": meta.get("forks", ""),
+                    "open_issues": meta.get("open_issues", ""),
+                    "commits": meta.get("commits", ""),
+                    "language": meta.get("language", ""),
+                    "license": meta.get("license", ""),
+                    "description": meta.get("description") or entry["desc"],
+                    "created_at": meta.get("created_at", ""),
+                    "pushed_at": meta.get("pushed_at", ""),
+                    "archived": meta.get("archived", ""),
+                    "activity": _activity_bucket(
+                        meta.get("pushed_at", ""), meta.get("archived", False)
+                    ),
+                }
+            )
+
+    return buf.getvalue()
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -442,4 +503,8 @@ async def _async_main() -> None:
     readme = _generate_readme(sections)
     OUTPUT_FILE.write_text(readme)
 
-    print(f"✅ Done! Written to {OUTPUT_FILE}", file=sys.stderr)
+    print("📝 Generating data.csv…", file=sys.stderr)
+    csv_data = _generate_csv(sections)
+    CSV_FILE.write_text(csv_data)
+
+    print(f"✅ Done! Written to {OUTPUT_FILE} and {CSV_FILE}", file=sys.stderr)
