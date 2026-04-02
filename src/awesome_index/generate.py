@@ -236,6 +236,15 @@ def _format_stars(n: int | None) -> str:
     return str(n)
 
 
+def _invert_date(iso: str) -> str:
+    """Return a string that sorts inversely to the ISO date (newest first)."""
+    if not iso:
+        return "~"
+    return "".join(
+        chr(ord("9") - ord(c) + ord("0")) if c.isdigit() else c for c in iso
+    )
+
+
 def _time_ago(iso: str) -> str:
     if not iso:
         return ""
@@ -297,10 +306,19 @@ def _generate_readme(sections: list[dict]) -> str:
         if not sec["entries"]:
             continue
 
+        # Sort: active repos by most recent push first, archived at the bottom
+        def _sort_key(entry: dict) -> tuple:
+            meta = entry.get("meta") or {}
+            archived = 1 if meta.get("archived") else 0
+            pushed = meta.get("pushed_at", "")
+            return (archived, "" if pushed else "0", _invert_date(pushed))
+
+        sorted_entries = sorted(sec["entries"], key=_sort_key)
+
         lines.append("| Repository | Stars | Last Push | Commits | Description |")
         lines.append("|:---|---:|:---:|---:|:---|")
 
-        for entry in sec["entries"]:
+        for entry in sorted_entries:
             meta = entry["meta"]
             name = entry["name"]
             url = entry["url"]
@@ -310,9 +328,8 @@ def _generate_readme(sections: list[dict]) -> str:
                 pushed = _time_ago(meta.get("pushed_at", ""))
                 commits = f"{meta['commits']:,}" if meta.get("commits") else ""
                 desc = meta.get("description") or entry["desc"] or ""
-                # Ensure description ends with a period.
                 desc = desc.rstrip()
-                if desc and not desc.endswith((".","!","?")):
+                if desc and not desc.endswith((".", "!", "?")):
                     desc += "."
                 if meta.get("archived"):
                     name = f"~~{name}~~ (archived)"
@@ -322,7 +339,7 @@ def _generate_readme(sections: list[dict]) -> str:
                 )
             else:
                 desc = entry["desc"] or ""
-                if desc and not desc.endswith((".","!","?")):
+                if desc and not desc.endswith((".", "!", "?")):
                     desc += "."
                 lines.append(f"| [{name}]({url}) | | | | {desc} |")
 
