@@ -2,7 +2,7 @@
 
 > An enriched, auto-generated index of the [sindresorhus/awesome](https://github.com/sindresorhus/awesome) list with live GitHub metadata.
 
-*Last updated: 2026-04-02 10:13 UTC*
+*Last updated: 2026-04-02 10:24 UTC*
 
 ## Contents
 
@@ -35,7 +35,7 @@
 
 ## Platforms
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Node.js**](https://github.com/sindresorhus/awesome-nodejs) | 65.5k | 2mo ago | 884 | :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER] |
 | [**Cross-Platform**](https://github.com/bcoe/awesome-cross-platform-nodejs) | 1.2k | 3y ago | 162 | :two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code |
@@ -101,7 +101,7 @@
 
 ## Programming Languages
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**JavaScript**](https://github.com/sorrycc/awesome-javascript) | 34.9k | today | 840 | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. |
 | [**Promises**](https://github.com/wbinnssmith/awesome-promises) | 1.7k | 2y ago | 64 | A curated list of useful resources for JavaScript Promises |
@@ -186,7 +186,7 @@
 
 ## Front-End Development
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**ES6 Tools**](https://github.com/addyosmani/es6-tools) | 4.0k | 6y ago | 158 | An aggregation of tooling for using ES6 today |
 | [**Web Performance Optimization**](https://github.com/davidsonfellipe/awesome-wpo) `JavaScript` | 8.9k | 21d ago | 551 | :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! |
@@ -276,7 +276,7 @@
 
 ## Back-End Development
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Flask**](https://github.com/mjhea0/awesome-flask) | 1.7k | 1mo ago | 79 | A curated list of awesome things related to Flask |
 | [**Docker**](https://github.com/veggiemonk/awesome-docker) | 35.8k | today | 3,091 | :whale: A curated list of Docker resources and projects |
@@ -314,7 +314,7 @@
 
 ## Computer Science
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**University Courses**](https://github.com/prakhar1989/awesome-courses) | 67.4k | 2y ago | 554 | :books: List of awesome university courses for learning Computer Science! |
 | [**Data Science**](https://github.com/academic/awesome-datascience) | 28.7k | today | 1,253 | :memo: An awesome Data Science repository to learn and apply for real world problems. |
@@ -357,7 +357,7 @@
 
 ## Big Data
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Big Data**](https://github.com/0xnr/awesome-bigdata) | 14.3k | 1mo ago | 591 | A curated list of awesome big data frameworks, ressources and other awesomeness. |
 | [**Public Datasets**](https://github.com/awesomedata/awesome-public-datasets) | 73.8k | today | 812 | A topic-centric list of HQ open datasets. |
@@ -371,7 +371,7 @@
 
 ## Theory
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Papers We Love**](https://github.com/papers-we-love/papers-we-love) `Shell` | 104.8k | 7d ago | 883 | Papers from the computer science community to read and discuss. |
 | [**Talks**](https://github.com/JanVanRyswyck/awesome-talks) | 6.2k | 8mo ago | 226 | Awesome online talks and screencasts |
@@ -390,7 +390,7 @@
 
 ## Books
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Free Programming Books**](https://github.com/EbookFoundation/free-programming-books) `Python` | 384.9k | 1d ago | 10,069 | :books: Freely available programming books |
 | [**Go Books**](https://github.com/dariubs/GoBooks) `Go` | 19.3k | 1mo ago | 227 | List of Golang books |
@@ -401,7 +401,7 @@
 
 ## Editors
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Sublime Text**](https://github.com/dreikanter/sublime-bookmarks) | 1.1k | 2y ago | 88 | Sublime Text essential plugins and resources |
 | [**Vim**](https://github.com/mhinz/vim-galore) `Vim script` | 17.8k | 2y ago | 387 | :mortar_board: All things Vim! |
@@ -412,7 +412,7 @@
 
 ## Gaming
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Game Development**](https://github.com/ellisonleao/magictools) `Markdown` | 16.4k | 2d ago | 542 | :video_game: :pencil: A list of Game Development resources to make magic happen. |
 | [**Game Talks**](https://github.com/hzoo/awesome-gametalks) | 1.2k | 1y ago | 126 | :speech_balloon: A curated list of gaming talks (development, design, etc) |
@@ -446,7 +446,7 @@
 
 ## Development Environment
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Quick Look Plugins**](https://github.com/sindresorhus/quick-look-plugins) | 18.6k | 11d ago | 66 | List of useful Quick Look plugins for developers |
 | [**Dev Env**](https://github.com/jondot/awesome-devenv) | 3.2k | 1y ago | 147 | A curated list of awesome tools, resources and workflow tips making an awesome development environment. |
@@ -474,7 +474,7 @@
 
 ## Entertainment
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Science Fiction**](https://github.com/sindresorhus/awesome-scifi) | 4.8k | 3mo ago | 503 | Sci-Fi worth consuming |
 | [**Fantasy**](https://github.com/RichardLitt/awesome-fantasy) | 1.5k | 1y ago | 203 | :european_castle: Fantasy literature worth reading |
@@ -484,7 +484,7 @@
 
 ## Databases
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Database**](https://github.com/numetriclabz/awesome-db) | 1.4k | 2y ago | 31 | A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/ |
 | [**MySQL**](https://github.com/shlomi-noach/awesome-mysql) `Python` | 2.6k | 3d ago | 246 | A curated list of awesome MySQL software, libraries, tools and resources |
@@ -508,7 +508,7 @@
 
 ## Media
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Fonts**](https://github.com/brabadu/awesome-fonts) | 1.9k | 1mo ago | 154 | Curated list of fonts and everything |
 | [**Codeface**](https://github.com/chrissimpkins/codeface) `Python` | 6.5k | 5y ago | 608 | Typefaces for source code beautification |
@@ -527,7 +527,7 @@
 
 ## Learn
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**CLI Workshoppers**](https://github.com/therebelrobot/awesome-workshopper) | 2.2k | 5y ago | 38 | A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome. |
 | [**Learn to Program**](https://github.com/karlhorky/learn-to-program) | 4.7k | 10mo ago | 98 | Educational resources to learn to program (Foundation in Web Development) |
@@ -548,7 +548,7 @@
 
 ## Security
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Application Security**](https://github.com/paragonie/awesome-appsec) `PHP` | 6.9k | 1y ago | 137 | A curated list of resources for learning about application security |
 | [**Security**](https://github.com/sbilly/awesome-security) | 14.2k | 2mo ago | 515 | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. |
@@ -582,7 +582,7 @@
 
 ## Content Management Systems
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Umbraco**](https://github.com/umbraco-community/awesome-umbraco) | 219 | 3y ago | 180 | A curated list of awesome Umbraco packages, resources and tools |
 | [**Refinery CMS**](https://github.com/refinerycms-contrib/awesome-refinerycms) | 36 | 9y ago | 18 | A collection of awesome Refinery CMS extensions, resources and shiny things. |
@@ -598,7 +598,7 @@
 
 ## Hardware
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Robotics**](https://github.com/Kiloreux/awesome-robotics) | 6.3k | 1y ago | 83 | A list of awesome Robotics resources |
 | [**Internet of Things**](https://github.com/HQarroum/awesome-iot) | 3.9k | 1d ago | 307 | 🤖 A curated list of awesome Internet of Things projects and resources. |
@@ -614,7 +614,7 @@
 
 ## Business
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Open Companies**](https://github.com/opencompany/awesome-open-company) | 1.2k | 2y ago | 113 | A community-curated list of awesome open companies. |
 | [**Places to Post Your Startup**](https://github.com/mmccaff/PlacesToPostYourStartup) | 6.6k | 1mo ago | 312 | Compiled list of links from "Ask HN: Where can I post my startup to get beta users?" |
@@ -631,7 +631,7 @@
 
 ## Work
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Slack**](https://github.com/matiassingers/awesome-slack) | 877 | 8mo ago | 88 | A curated list of awesome Slack related things |
 | [**Communities**](https://github.com/filipelinhares/awesome-slack) | 339 | 2y ago | 109 | 🕶️  List of communities powered by Slack. |
@@ -645,7 +645,7 @@
 
 ## Networking
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Software-Defined Networking**](https://github.com/sdnds-tw/awesome-sdn) | 1.6k | 1y ago | 126 | A awesome list about Software Defined Network (SDN) |
 | [**PCAPTools**](https://github.com/caesar0301/awesome-pcaptools) | 3.4k | 7mo ago | 143 | A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors. |
@@ -656,7 +656,7 @@
 
 ## Decentralized Systems
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Bitcoin**](https://github.com/igorbarinov/awesome-bitcoin) | 1.3k | 4d ago | 186 | A curated list of bitcoin services and tools for software developers |
 | [**Ripple**](https://github.com/vhpoet/awesome-ripple) | 195 | 4y ago | 100 | A curated list of Ripple resources |
@@ -678,7 +678,7 @@
 
 ## Health and Social Science
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Biomedical Information Extraction**](https://github.com/caufieldjh/awesome-bioie) | 425 | 1y ago | 155 | 🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP) |
 | [**Computational Neuroscience**](https://github.com/eselkin/awesome-computational-neuroscience) | 922 | 1y ago | 125 | A list of schools and researchers in computational neuroscience |
@@ -696,7 +696,7 @@
 
 ## Events
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Creative Tech Events**](https://github.com/danvoyce/awesome-creative-tech-events) | 199 | 3y ago | 27 | A curated list of awesome creative tech events from around the world |
 | [**Events in Italy**](https://github.com/ildoc/awesome-italy-events) `Python` | 150 | 3y ago | 199 | Curated list of tech related events in Italy |
@@ -704,7 +704,7 @@
 
 ## Testing
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Testing**](https://github.com/TheJambo/awesome-testing) | 2.2k | 3d ago | 186 | A curated list of testing resources |
 | [**Visual Regression Testing**](https://github.com/mojoaxel/awesome-regression-testing) | 2.4k | 1mo ago | 128 | 🕶️ A curated list of resources around the topic: visual regression testing |
@@ -720,7 +720,7 @@
 
 ## Miscellaneous
 
-| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |
+| Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [**Scientific Writing**](https://github.com/writing-resources/awesome-scientific-writing) | 925 | 27d ago | 98 | :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX  |
 | [**JSON**](https://github.com/burningtree/awesome-json) | 1.5k | 1y ago | 259 | A curated list of awesome JSON libraries and resources. |
@@ -861,4 +861,4 @@
 
 ---
 
-Generated by [awesome-index](https://github.com/tamnd/awesome-index) • 2026-04-02 10:13 UTC
+Generated by [awesome-index](https://github.com/tamnd/awesome-index) • 2026-04-02 10:24 UTC

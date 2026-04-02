@@ -297,7 +297,7 @@ def _generate_readme(sections: list[dict]) -> str:
             continue
 
         lines.append(
-            "| Repository | ⭐ Stars | 📅 Last Push | 🔀 Commits | Description |"
+            "| Repository | Stars | Last Push | Commits | Description |"
         )
         lines.append("|:---|---:|:---:|---:|:---|")
 
