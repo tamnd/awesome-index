@@ -2,24 +2,34 @@
 
 Auto-generate an enriched README from [sindresorhus/awesome](https://github.com/sindresorhus/awesome) with live GitHub metadata.
 
+The [awesome list](https://github.com/sindresorhus/awesome) is one of the most popular resources on GitHub, but it's just a flat list of links. This tool turns it into a proper index with stars, activity, commit counts, and descriptions pulled straight from the GitHub API.
+
 ## How it works
 
-1. **Fetch** — Downloads the raw `readme.md` from `sindresorhus/awesome` on GitHub.
+The whole pipeline runs in four steps:
 
-2. **Parse** — Walks through the markdown line by line, extracting:
-   - Section headings (categories like *Platforms*, *Programming Languages*, etc.)
-   - Repo entries matching the `- [Name](https://github.com/owner/repo) - Description` pattern via regex.
+**1. Fetch the source list**
 
-3. **Enrich** — For each extracted GitHub repo, fires async requests (via `httpx`) to the GitHub API:
-   - `GET /repos/{owner}/{repo}` — stars, forks, language, description, archived status, last push date.
-   - `GET /repos/{owner}/{repo}/commits?per_page=1` — total commit count derived from the `Link` pagination header.
-   - Runs up to 16 concurrent requests with `asyncio.Semaphore`.
-   - Results are cached to `.cache.json` (24h TTL) so re-runs are fast.
+It grabs the raw `readme.md` from `sindresorhus/awesome`. That file has around 700 links to awesome-* repos, organized under category headings.
 
-4. **Generate** — Produces a `README.md` with:
-   - A table of contents with entry counts per category.
-   - Per-section tables with columns: Repository, Stars, Last Push, Commits, Description.
-   - Human-readable formatting: `59.5k` stars, `2mo ago` timestamps, `~~archived~~` repos.
+**2. Parse the markdown**
+
+The parser walks through each line looking for two things: section headings (like *Platforms*, *Programming Languages*) and repo entries. Entries follow the pattern `- [Name](https://github.com/owner/repo) - Description`, which gets picked apart with a regex.
+
+**3. Enrich with GitHub metadata**
+
+For every repo it found, the tool hits the GitHub API to pull in the good stuff:
+
+- Stars, forks, language, description, whether it's archived, and when it was last pushed.
+- Commit count, using a neat trick: request one commit per page and read the total from the `Link` pagination header.
+
+All of this runs concurrently (up to 16 requests at a time using `httpx` and `asyncio`). API responses are cached locally in `.cache.json` for 24 hours, so re-runs are fast and won't burn through your rate limit.
+
+**4. Generate the README**
+
+Everything gets assembled into a clean `README.md` at the project root. Each category becomes a table with columns for the repo name, star count (formatted like `59.5k`), last push time (`2mo ago`), commit count, and description. Archived repos are shown with strikethrough. A table of contents at the top lists every category with its entry count.
+
+A GitHub Actions workflow runs this daily and commits the result, so the index stays fresh without any manual work.
 
 ## Setup
 
@@ -33,31 +43,34 @@ uv sync
 uv run awesome-index
 ```
 
-Or directly:
+Or:
 
 ```sh
 uv run python -m awesome_index
 ```
 
-The generated `README.md` is written to the project root.
+The output goes to `README.md` in the project root.
 
 ## Authentication
 
-The GitHub API has rate limits (60 req/h unauthenticated, 5000 req/h with a token). The tool auto-detects a token from:
+The GitHub API allows 60 requests per hour without a token, and 5,000 with one. Since the tool makes about 1,400 requests per run (two per repo), you'll need a token. It picks one up automatically from:
 
-1. `GITHUB_TOKEN` environment variable
-2. `gh auth token` (GitHub CLI)
+1. The `GITHUB_TOKEN` environment variable
+2. The GitHub CLI (`gh auth token`)
 
 ## Project structure
 
 ```
 awesome-index/
-├── pyproject.toml              # uv/hatch project config
+├── pyproject.toml              # project config (uv + hatch)
 ├── src/
 │   ├── README.md               # this file
 │   └── awesome_index/
-│       ├── __init__.py          # re-exports main()
-│       └── generate.py          # all logic: fetch, parse, enrich, render
-├── README.md                    # generated output (do not edit)
-└── .cache.json                  # API response cache (gitignored)
+│       ├── __init__.py          # package entry point
+│       └── generate.py          # fetch, parse, enrich, render
+├── .github/
+│   └── workflows/
+│       └── update.yml          # daily scheduled regeneration
+├── README.md                   # generated output (do not edit by hand)
+└── .cache.json                 # API response cache (gitignored)
 ```
