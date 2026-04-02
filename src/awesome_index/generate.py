@@ -302,14 +302,24 @@ def _generate_readme(sections: list[dict]) -> str:
 
     # Header with Awesome badge
     lines.append(
+        '<div align="center">'
+    )
+    lines.append("")
+    lines.append(
+        '<img src="https://awesome.re/logo-small.svg" width="300">'
+    )
+    lines.append("")
+    lines.append("</div>")
+    lines.append("")
+    lines.append(
         "# Awesome Index "
         "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)"
     )
     lines.append("")
     lines.append(
-        "An auto-generated, enriched index of the "
-        "[awesome](https://github.com/sindresorhus/awesome) list "
-        "with stars, activity, and commit counts from the GitHub API."
+        "A comprehensive collection of curated lists covering programming, "
+        "platforms, tools, media, and more, enriched with stars, activity, and "
+        "commit counts."
     )
     lines.append("")
     lines.append(f"*Last updated: {now_str}*")

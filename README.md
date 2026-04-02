@@ -1,8 +1,14 @@
+<div align="center">
+
+<img src="https://awesome.re/logo-small.svg" width="300">
+
+</div>
+
 # Awesome Index [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An auto-generated, enriched index of the [awesome](https://github.com/sindresorhus/awesome) list with stars, activity, and commit counts from the GitHub API.
+A comprehensive collection of curated lists covering programming, platforms, tools, media, and more, enriched with stars, activity, and commit counts.
 
-*Last updated: 2026-04-02 10:38 UTC*
+*Last updated: 2026-04-02 10:41 UTC*
 
 ## Contents
 
@@ -1370,7 +1376,7 @@ An auto-generated, enriched index of the [awesome](https://github.com/sindresorh
 
 This list is generated automatically from the [sindresorhus/awesome](https://github.com/sindresorhus/awesome) source list. Metadata is fetched from the GitHub API and refreshed daily.
 
-Last generated on 2026-04-02 10:38 UTC.
+Last generated on 2026-04-02 10:41 UTC.
 
 ## Contributing
 
