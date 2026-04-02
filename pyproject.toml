@@ -1,0 +1,19 @@
+[project]
+name = "awesome-index"
+version = "0.1.0"
+description = "Auto-generate an enriched README from sindresorhus/awesome with live GitHub metadata"
+readme = "src/README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28",
+]
+
+[project.scripts]
+awesome-index = "awesome_index:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/awesome_index"]
