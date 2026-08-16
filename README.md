@@ -8,7 +8,7 @@
 
 A comprehensive collection of curated lists covering programming, platforms, tools, media, and more, enriched with stars, activity, and commit counts.
 
-*Last updated: 2026-08-15 06:50 UTC*
+*Last updated: 2026-08-16 06:52 UTC*
 
 ## Contents
 
@@ -45,22 +45,22 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Apps](https://github.com/jaywcjlove/awesome-mac) `Swift` | 111.1k | today | 2,920 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
-| [Deno](https://github.com/denolib/awesome-deno) | 4.4k | 1d ago | 458 | Curated list of awesome things related to Deno. |
-| [Home Assistant](https://github.com/frenck/awesome-home-assistant) `Python` | 8.3k | 1d ago | 646 | A curated list of amazingly awesome Home Assistant resources. |
-| [Integration](https://github.com/stn1slv/awesome-integration) `Markdown` | 552 | 4d ago | 481 | A curated list of awesome system integration software and resources. |
+| [Apps](https://github.com/jaywcjlove/awesome-mac) `Swift` | 111.2k | today | 2,922 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
+| [Deno](https://github.com/denolib/awesome-deno) | 4.4k | 2d ago | 458 | Curated list of awesome things related to Deno. |
+| [Home Assistant](https://github.com/frenck/awesome-home-assistant) `Python` | 8.3k | 2d ago | 646 | A curated list of amazingly awesome Home Assistant resources. |
+| [Integration](https://github.com/stn1slv/awesome-integration) `Markdown` | 552 | 5d ago | 481 | A curated list of awesome system integration software and resources. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Capacitor](https://github.com/riderx/awesome-capacitor) `HTML` | 635 | 16d ago | 230 | 😎 Awesome lists of capacitor plugins. Made by Capgo. |
-| [KDE](https://github.com/francoism90/awesome-kde) | 827 | 22d ago | 88 | A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment. |
-| [Nix](https://github.com/nix-community/awesome-nix) | 5.4k | 22d ago | 454 | 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]. |
-| [Omarchy](https://github.com/aorumbayev/awesome-omarchy) `HTML` | 411 | 23d ago | 48 | ⚡A curated list of awesome omarchy resources. |
-| [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) `Shell` | 16.7k | 18d ago | 604 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources. |
-| [Smart TV](https://github.com/vitalets/awesome-smart-tv) | 1.4k | 19d ago | 95 | :zap:A curated list of awesome resources for building Smart TV apps. |
-| [Windows](https://github.com/0pandadev/awesome-windows) | 2.7k | 13d ago | 436 | An awesome & curated list of tools and apps for Windows 10/11. |
+| [Capacitor](https://github.com/riderx/awesome-capacitor) `HTML` | 635 | 17d ago | 230 | 😎 Awesome lists of capacitor plugins. Made by Capgo. |
+| [KDE](https://github.com/francoism90/awesome-kde) | 826 | 23d ago | 88 | A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment. |
+| [Nix](https://github.com/nix-community/awesome-nix) | 5.4k | 23d ago | 454 | 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]. |
+| [Omarchy](https://github.com/aorumbayev/awesome-omarchy) `HTML` | 412 | 24d ago | 48 | ⚡A curated list of awesome omarchy resources. |
+| [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) `Shell` | 16.7k | 19d ago | 604 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources. |
+| [Smart TV](https://github.com/vitalets/awesome-smart-tv) | 1.4k | 20d ago | 95 | :zap:A curated list of awesome resources for building Smart TV apps. |
+| [Windows](https://github.com/0pandadev/awesome-windows) | 2.7k | 14d ago | 436 | An awesome & curated list of tools and apps for Windows 10/11. |
 
 ### Updated in the last 6 months
 
@@ -84,7 +84,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [Android](https://github.com/JStumpp/awesome-android) | 12.3k | 9mo ago | 594 | A curated list of awesome Android packages and resources. |
-| [AppImage](https://github.com/AppImageCommunity/awesome-appimage) | 597 | 8mo ago | 174 | Lovingly crafted AppImage tools and resources. |
+| [AppImage](https://github.com/AppImageCommunity/awesome-appimage) | 598 | 8mo ago | 174 | Lovingly crafted AppImage tools and resources. |
 | [Cloudflare](https://github.com/irazasyed/awesome-cloudflare) | 1.2k | 6mo ago | 14 | ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources. |
 | [DOS](https://github.com/balintkissdev/awesome-dos) | 625 | 11mo ago | 57 | Curated list of references for development of DOS applications. |
 | [GNOME](https://github.com/Kazhnuz/awesome-gnome) | 1.6k | 7mo ago | 454 | A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment. |
@@ -132,7 +132,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 |:---|---:|:---:|---:|:---|
 | [~~Google Cloud~~](https://github.com/GoogleCloudPlatform/awesome-google-cloud) | 918 | 2y ago | 90 | A curated list of awesome stuff for Google Cloud. |
 | [~~Qt~~](https://github.com/JesseTG/awesome-qt) | 1.6k | 2y ago | 152 | A curated list of awesome tools, libraries, and resources for the Qt framework. |
-| [~~Xamarin~~](https://github.com/XamSome/awesome-xamarin) | 1.9k | 5mo ago | 254 | A collection of interesting libraries/tools for Xamarin mobile projects. |
+| [~~Xamarin~~](https://github.com/XamSome/awesome-xamarin) | 1.9k | 6mo ago | 254 | A collection of interesting libraries/tools for Xamarin mobile projects. |
 
 ## Programming Languages
 
@@ -140,36 +140,36 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [CMake](https://github.com/onqtam/awesome-cmake) | 5.4k | 1d ago | 118 | A curated list of awesome CMake resources, scripts, modules and examples. |
-| [Go](https://github.com/avelino/awesome-go) `Go` | 181.1k | today | 5,508 | A curated list of awesome Go frameworks, libraries and software. |
-| [Java](https://github.com/akullpp/awesome-java) | 48.7k | 5d ago | 1,871 | A curated list of awesome frameworks, libraries and software for the Java programming language. |
-| [Pest](https://github.com/pest-parser/awesome-pest) | 151 | 6d ago | 25 | A curated list of resources, projects, and tools using or for the pest parser generator in Rust. |
-| [Ruby](https://github.com/markets/awesome-ruby) | 14.1k | 1d ago | 1,542 | 💎 A collection of awesome Ruby libraries, tools, frameworks and software. |
-| [Rust](https://github.com/rust-unofficial/awesome-rust) `Rust` | 58.8k | today | 6,295 | A curated list of Rust code and resources. |
-| [V](https://github.com/vlang/awesome-v) | 2.1k | 3d ago | 371 | A curated list of awesome V frameworks, libraries, software and resources. |
+| [CMake](https://github.com/onqtam/awesome-cmake) | 5.4k | 2d ago | 118 | A curated list of awesome CMake resources, scripts, modules and examples. |
+| [Common Lisp](https://github.com/CodyReichert/awesome-cl) `Makefile` | 3.0k | today | 1,298 | A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff. |
+| [Go](https://github.com/avelino/awesome-go) `Go` | 181.2k | today | 5,511 | A curated list of awesome Go frameworks, libraries and software. |
+| [Java](https://github.com/akullpp/awesome-java) | 48.8k | 6d ago | 1,871 | A curated list of awesome frameworks, libraries and software for the Java programming language. |
+| [Pest](https://github.com/pest-parser/awesome-pest) | 151 | 7d ago | 25 | A curated list of resources, projects, and tools using or for the pest parser generator in Rust. |
+| [Ruby](https://github.com/markets/awesome-ruby) | 14.1k | 2d ago | 1,542 | 💎 A collection of awesome Ruby libraries, tools, frameworks and software. |
+| [Rust](https://github.com/rust-unofficial/awesome-rust) `Rust` | 58.8k | today | 6,297 | A curated list of Rust code and resources. |
+| [V](https://github.com/vlang/awesome-v) | 2.1k | today | 373 | A curated list of awesome V frameworks, libraries, software and resources. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [C/C++](https://github.com/fffaraz/awesome-cpp) | 72.8k | 10d ago | 2,039 | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. |
-| [Clojure](https://github.com/razum2um/awesome-clojure) `Clojure` | 2.8k | 8d ago | 290 | A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff. |
-| [Composer](https://github.com/jakoch/awesome-composer) | 907 | 19d ago | 265 |  :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials. |
-| [Elm](https://github.com/sporto/awesome-elm) | 3.7k | 25d ago | 551 | A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:. |
-| [Haskell](https://github.com/krispo/awesome-haskell) `Python` | 3.3k | 11d ago | 146 | A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line. |
-| [J2ME](https://github.com/hstsethi/awesome-j2me) `Java` | 406 | 18d ago | 116 | Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. |
-| [JavaScript](https://github.com/sorrycc/awesome-javascript) | 35.0k | 14d ago | 847 | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. |
-| [MicroPython](https://github.com/mcauser/awesome-micropython) `HTML` | 1.8k | 26d ago | 1,097 | A curated list of awesome MicroPython libraries, frameworks, software and resources. |
-| [npm scripts](https://github.com/RyanZim/awesome-npm-scripts) | 742 | 22d ago | 54 | Everything awesome related to npm scripts and using npm as a build tool. |
-| [Python](https://github.com/vinta/awesome-python) `Python` | 314.0k | 10d ago | 2,511 | An opinionated list of Python frameworks, libraries, tools, and resources. |
-| [Swift](https://github.com/matteocrippa/awesome-swift) `Ruby` | 26.2k | 11d ago | 4,106 | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! |
+| [C/C++](https://github.com/fffaraz/awesome-cpp) | 72.8k | 11d ago | 2,039 | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. |
+| [Clojure](https://github.com/razum2um/awesome-clojure) `Clojure` | 2.8k | 9d ago | 290 | A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff. |
+| [Composer](https://github.com/jakoch/awesome-composer) | 907 | 20d ago | 265 |  :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials. |
+| [Elm](https://github.com/sporto/awesome-elm) | 3.7k | 26d ago | 551 | A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:. |
+| [Haskell](https://github.com/krispo/awesome-haskell) `Python` | 3.3k | 12d ago | 146 | A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line. |
+| [J2ME](https://github.com/hstsethi/awesome-j2me) `Java` | 406 | 19d ago | 116 | Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. |
+| [JavaScript](https://github.com/sorrycc/awesome-javascript) | 35.0k | 15d ago | 847 | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. |
+| [MicroPython](https://github.com/mcauser/awesome-micropython) `HTML` | 1.8k | 27d ago | 1,097 | A curated list of awesome MicroPython libraries, frameworks, software and resources. |
+| [npm scripts](https://github.com/RyanZim/awesome-npm-scripts) | 742 | 23d ago | 54 | Everything awesome related to npm scripts and using npm as a build tool. |
+| [Python](https://github.com/vinta/awesome-python) `Python` | 314.2k | 11d ago | 2,511 | An opinionated list of Python frameworks, libraries, tools, and resources. |
+| [Swift](https://github.com/matteocrippa/awesome-swift) `Ruby` | 26.2k | 12d ago | 4,106 | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! |
 
 ### Updated in the last 6 months
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Ada/SPARK](https://github.com/ohenley/awesome-ada) | 856 | 2mo ago | 730 | A curated list of awesome resources related to the Ada and SPARK programming language. |
-| [Common Lisp](https://github.com/CodyReichert/awesome-cl) `Makefile` | 3.0k | 1mo ago | 1,296 | A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff. |
+| [Ada/SPARK](https://github.com/ohenley/awesome-ada) | 857 | 2mo ago | 730 | A curated list of awesome resources related to the Ada and SPARK programming language. |
 | [Crystal](https://github.com/veelenga/awesome-crystal) `Crystal` | 3.6k | 1mo ago | 859 | :gem: A collection of awesome Crystal libraries, tools, frameworks and software. |
 | [D](https://github.com/dlang-community/awesome-d) `D` | 764 | 1mo ago | 337 |   A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python. |
 | [Dart](https://github.com/yissachar/awesome-dart) | 2.5k | 2mo ago | 197 | A curated list of awesome Dart frameworks, libraries, and software. |
@@ -181,11 +181,11 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | [npm](https://github.com/sindresorhus/awesome-npm) | 4.7k | 3mo ago | 107 | Awesome npm resources and tips. |
 | [OCaml](https://github.com/ocaml-community/awesome-ocaml) | 3.1k | 2mo ago | 637 | A curated collection of awesome OCaml tools, frameworks, libraries and articles. |
 | [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) `Pascal` | 2.1k | 5mo ago | 316 | A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only! |
-| [PHP](https://github.com/ziadoz/awesome-php) | 32.6k | 1mo ago | 1,778 | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
+| [PHP](https://github.com/ziadoz/awesome-php) | 32.7k | 1mo ago | 1,778 | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
 | [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) `Swift` | 4.4k | 4mo ago | 170 | A List of Awesome Swift Playgrounds. |
 | [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) | 1.7k | 2mo ago | 157 |  Curated list of python software and packages related to scientific research in audio. |
 | [Typing](https://github.com/typeddjango/awesome-python-typing) | 2.0k | 1mo ago | 144 | Collection of awesome Python types, stubs, plugins, and tools to work with them. |
-| [VBA](https://github.com/sancarn/awesome-vba) | 618 | 2mo ago | 100 | A curated list of awesome VBA/VB6 frameworks, libraries, software and resources. |
+| [VBA](https://github.com/sancarn/awesome-vba) | 619 | 2mo ago | 100 | A curated list of awesome VBA/VB6 frameworks, libraries, software and resources. |
 
 ### Updated in the last year
 
@@ -202,7 +202,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 |:---|---:|:---:|---:|:---|
 | [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3) | 274 | 3y ago | 87 | A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR. |
 | [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) | 3.1k | 3y ago | 395 | A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources. |
-| [AutoIt](https://github.com/J2TeaM/awesome-AutoIt) | 923 | 3y ago | 72 | :star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt. |
+| [AutoIt](https://github.com/J2TeaM/awesome-AutoIt) | 924 | 3y ago | 72 | :star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt. |
 | [AVA](https://github.com/avajs/awesome-ava) | 356 | 3y ago | 55 | Awesome AVA resources. |
 | [CircuitPython](https://github.com/adafruit/awesome-circuitpython) | 739 | 1y ago | 351 | A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources. |
 | [ClojureScript](https://github.com/hantuzun/awesome-clojurescript) | 1.1k | 2y ago | 164 | A community driven list of ClojureScript frameworks, libraries and wrappers. |
@@ -215,12 +215,12 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | [Julia](https://github.com/svaksha/Julia.jl) `Julia` | 1.5k | 2y ago | 2,851 | Curated decibans of Julia programming language. |
 | [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources) | 656 | 1y ago | 307 | A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md). |
 | [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning) | 240 | 2y ago | 45 | A curated list of awesome Common Lisp learning resources. |
-| [Lua](https://github.com/LewisJEllis/awesome-lua) | 4.5k | 2y ago | 106 | A curated list of quality Lua packages and resources. |
+| [Lua](https://github.com/LewisJEllis/awesome-lua) | 4.6k | 2y ago | 106 | A curated list of quality Lua packages and resources. |
 | [Mad Science npm Packages](https://github.com/feross/awesome-mad-science) | 1.2k | 4y ago | 68 | Delightful npm packages that make you say "wow, didn't know that was possible!". |
 | [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages) | 4.6k | 2y ago | 158 | A curated list of small, focused npm packages. |
 | [Move](https://github.com/MystenLabs/awesome-move) | 1.5k | 2y ago | 136 | Code and content from the Move community. |
 | [Must Watch Talks](https://github.com/bolshchikov/js-must-watch) | 13.6k | 4y ago | 132 | Must-watch videos about javascript. |
-| [Network Layer](https://github.com/Kikobeats/awesome-network-js) | 583 | 5y ago | 46 | A :tophat: list of network layer resources written pure JS. |
+| [Network Layer](https://github.com/Kikobeats/awesome-network-js) | 582 | 5y ago | 46 | A :tophat: list of network layer resources written pure JS. |
 | [Observables](https://github.com/sindresorhus/awesome-observables) | 352 | 4y ago | 10 | Awesome Observable related stuff - An Observable is a collection that arrives over time. |
 | [Perl](https://github.com/hachiojipm/awesome-perl) `Perl` | 710 | 2y ago | 246 | A curated list of awesome Perl frameworks and libraries. Come on Pull Requests! |
 | [Ponyfills](https://github.com/Richienb/awesome-ponyfills) | 66 | 5y ago | 32 | A curated list of awesome ponyfills for writing cross-platform and cross-browser code. |
@@ -249,25 +249,25 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Angular](https://github.com/PatrickJS/awesome-angular) `HTML` | 10.1k | today | 2,570 | :page_facing_up: A curated list of awesome Angular resources. |
-| [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss) | 15.1k | today | 543 | 😎 Awesome things related to Tailwind CSS. |
-| [Web Typography](https://github.com/deanhume/typography) | 708 | 5d ago | 74 | A collection of web typography resources. |
+| [Angular](https://github.com/PatrickJS/awesome-angular) `HTML` | 10.1k | today | 2,573 | :page_facing_up: A curated list of awesome Angular resources. |
+| [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss) | 15.1k | 1d ago | 543 | 😎 Awesome things related to Tailwind CSS. |
+| [Web Typography](https://github.com/deanhume/typography) | 708 | 6d ago | 74 | A collection of web typography resources. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Blazor](https://github.com/AdrienTorris/awesome-blazor) | 9.4k | 20d ago | 2,718 | Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly. |
-| [Design systems](https://github.com/klaufel/awesome-design-systems) | 880 | 9d ago | 82 | 📒 A curated list of bookmarks, resources and articles about design systems focused on developers. |
-| [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis) | 844 | 21d ago | 281 | Geospatial resources for web development :earth_africa: 🗺️. |
-| [Next.js](https://github.com/unicodeveloper/awesome-nextjs) | 11.1k | 16d ago | 462 | :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications). |
-| [Preact](https://github.com/preactjs/awesome-preact) | 1.0k | 9d ago | 131 | A curated list of amazingly awesome things regarding Preact ecosystem :star2:. |
-| [React](https://github.com/enaqx/awesome-react) | 74.3k | 25d ago | 2,046 | A collection of awesome things regarding React ecosystem. |
-| [SVG](https://github.com/willianjusten/awesome-svg) `Shell` | 4.6k | 29d ago | 525 | A curated list of SVG. |
-| [Vue.js](https://github.com/vuejs/awesome-vue) | 73.5k | 21d ago | 5,341 | 🎉 A curated list of awesome things related to Vue.js. |
-| [Web Accessibility](https://github.com/brunopulis/awesome-a11y) | 2.0k | 11d ago | 673 | A curate list about A11Y. |
-| [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) | 9.0k | 18d ago | 602 | A curated list of Web Performance Optimization. |
-| [Web Tools](https://github.com/lvwzhen/tools) | 1.3k | 17d ago | 119 | Tools Online. |
+| [Blazor](https://github.com/AdrienTorris/awesome-blazor) | 9.4k | 21d ago | 2,718 | Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly. |
+| [Design systems](https://github.com/klaufel/awesome-design-systems) | 880 | 10d ago | 82 | 📒 A curated list of bookmarks, resources and articles about design systems focused on developers. |
+| [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis) | 844 | 22d ago | 281 | Geospatial resources for web development :earth_africa: 🗺️. |
+| [Next.js](https://github.com/unicodeveloper/awesome-nextjs) | 11.1k | 17d ago | 462 | :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications). |
+| [Preact](https://github.com/preactjs/awesome-preact) | 1.0k | 10d ago | 131 | A curated list of amazingly awesome things regarding Preact ecosystem :star2:. |
+| [React](https://github.com/enaqx/awesome-react) | 74.3k | 26d ago | 2,046 | A collection of awesome things regarding React ecosystem. |
+| [SVG](https://github.com/willianjusten/awesome-svg) `Shell` | 4.6k | 1mo ago | 525 | A curated list of SVG. |
+| [Vue.js](https://github.com/vuejs/awesome-vue) | 73.5k | 22d ago | 5,341 | 🎉 A curated list of awesome things related to Vue.js. |
+| [Web Accessibility](https://github.com/brunopulis/awesome-a11y) | 2.0k | 12d ago | 673 | A curate list about A11Y. |
+| [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) | 9.0k | 19d ago | 602 | A curated list of Web Performance Optimization. |
+| [Web Tools](https://github.com/lvwzhen/tools) | 1.3k | 18d ago | 119 | Tools Online. |
 
 ### Updated in the last 6 months
 
@@ -323,7 +323,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | [Hydrogen](https://github.com/shopify/awesome-hydrogen) | 177 | 2y ago | 66 | A curated list of awesome Hydrogen things. |
 | [Inspiration](https://github.com/NoahBuscher/Inspire) | 1.3k | 2y ago | 100 | Collection of frontend dev and web design links :bulb:. |
 | [iOS UI](https://github.com/cjwirth/awesome-ios-ui) | 11.2k | 8y ago | 61 | A curated list of awesome iOS UI/UX libraries. |
-| [Less](https://github.com/LucasBassetti/awesome-less) | 68 | 3y ago | 25 | :sunglasses: A curated list of awesome {Less}. |
+| [Less](https://github.com/LucasBassetti/awesome-less) | 68 | 4y ago | 25 | :sunglasses: A curated list of awesome {Less}. |
 | [Marionette.js](https://github.com/sadcitizen/awesome-marionette) | 153 | 9y ago | 40 | A list of resources for marionette.js. |
 | [Master CSS](https://github.com/master-co/awesome-master-css) | 37 | 3y ago | 34 | Master CSS - A Virtual CSS language with enhanced syntax. |
 | [Material Design](https://github.com/sachin1092/awesome-material) | 657 | 3y ago | 46 | A curated list of Google's material design libraries for different frameworks. |
@@ -343,7 +343,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | [Scalability](https://github.com/davidtheclark/scalable-css-reading-list) | 1.5k | 2y ago | 37 | Collected dispatches from The Quest for Scalable CSS. |
 | [Seed](https://github.com/seed-rs/awesome-seed-rs) | 231 | 1y ago | 43 | A curated list of awesome things related to Seed. |
 | [Service Workers](https://github.com/TalAter/awesome-service-workers) | 1.7k | 7y ago | 61 | :nut_and_bolt: A collection of awesome resources for learning Service Workers. |
-| [Storybook](https://github.com/lauthieb/awesome-storybook) | 419 | 1y ago | 60 | A collection of awesome resources about @storybookjs ecosystem 🎨. |
+| [Storybook](https://github.com/lauthieb/awesome-storybook) | 420 | 1y ago | 60 | A collection of awesome resources about @storybookjs ecosystem 🎨. |
 | [Text Editing](https://github.com/dok/awesome-text-editing) | 301 | 4y ago | 27 | Collection of text editing resources and libraries for the web. |
 | [Tiny JS](https://github.com/thoughtspile/awesome-tiny-js) `JavaScript` | 776 | 1y ago | 40 | 🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet. |
 | [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) | 4.3k | 1y ago | 206 | A collection of tips to help up your jQuery game 🎮. |
@@ -366,17 +366,17 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Fiber](https://github.com/gofiber/awesome-fiber) | 832 | 1d ago | 171 | ✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools. |
-| [IAM](https://github.com/kdeldycke/awesome-iam) | 2.3k | today | 670 | 👤 Identity and Access Management knowledge for cloud platforms. |
+| [Fiber](https://github.com/gofiber/awesome-fiber) | 833 | today | 175 | ✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools. |
+| [IAM](https://github.com/kdeldycke/awesome-iam) | 2.3k | 1d ago | 670 | 👤 Identity and Access Management knowledge for cloud platforms. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Docker](https://github.com/veggiemonk/awesome-docker) | 36.6k | 16d ago | 3,133 | :whale: A curated list of Docker resources and projects. |
-| [nginx](https://github.com/fcambus/nginx-resources) | 3.8k | 10d ago | 103 | A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine. |
-| [OpenTofu](https://github.com/virtualroot/awesome-opentofu) `SCSS` | 205 | 12d ago | 293 | A curated list of OpenTofu tools, resources, and related projects. |
-| [Rails](https://github.com/gramantin/awesome-rails) | 3.9k | 29d ago | 425 | A curated list of awesome things related to Ruby on Rails. |
+| [Docker](https://github.com/veggiemonk/awesome-docker) | 36.6k | 17d ago | 3,133 | :whale: A curated list of Docker resources and projects. |
+| [nginx](https://github.com/fcambus/nginx-resources) | 3.8k | 11d ago | 103 | A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine. |
+| [OpenTofu](https://github.com/virtualroot/awesome-opentofu) `SCSS` | 205 | 13d ago | 293 | A curated list of OpenTofu tools, resources, and related projects. |
+| [Rails](https://github.com/gramantin/awesome-rails) | 3.9k | 1mo ago | 425 | A curated list of awesome things related to Ruby on Rails. |
 
 ### Updated in the last 6 months
 
@@ -385,7 +385,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | [CakePHP](https://github.com/friendsofcake/awesome-cakephp) | 937 | 2mo ago | 1,211 | A curated list of amazingly awesome CakePHP plugins, resources and shiny things. |
 | [FastAPI](https://github.com/mjhea0/awesome-fastapi) | 11.6k | 1mo ago | 320 | A curated list of awesome things related to FastAPI. |
 | [Flask](https://github.com/mjhea0/awesome-flask) | 1.8k | 3mo ago | 86 | A curated list of awesome things related to Flask. |
-| [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) `Shell` | 16.0k | 1mo ago | 1,198 | A curated list for awesome kubernetes sources :ship::tada:. |
+| [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) `Shell` | 16.1k | 1mo ago | 1,198 | A curated list for awesome kubernetes sources :ship::tada:. |
 | [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize) | 122 | 4mo ago | 23 | A curated and collaborative list of awesome Kustomize resources. |
 | [Slim](https://github.com/nekofar/awesome-slim) | 48 | 3mo ago | 112 | A curated list of awesome Slim framework packages and resources. |
 | [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess) | 13.2k | 5mo ago | 165 | ✂A collection of useful .htaccess snippets. |
@@ -395,7 +395,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) | 91 | 5y ago | 35 | A curated list of awesome projects powered by Apache Wicket. |
+| [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) | 91 | 6y ago | 35 | A curated list of awesome projects powered by Apache Wicket. |
 | [Dash](https://github.com/ucg8j/awesome-dash) `Python` | 2.3k | 1y ago | 151 | A curated list of awesome Dash (plotly) resources. |
 | [Dropwizard](https://github.com/stve/awesome-dropwizard) `Shell` | 104 | 7y ago | 54 | Java framework. |
 | [Education](https://github.com/pehapkari/awesome-symfony-education) | 320 | 5y ago | 75 | Useful sources around Symfony - articles, series and books (not Bundles). |
@@ -425,21 +425,21 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Data Science](https://github.com/academic/awesome-datascience) | 29.8k | 4d ago | 1,364 | :memo: An awesome Data Science repository to learn and apply for real world problems. |
-| [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) `Python` | 74.0k | 3d ago | 2,144 | A curated list of awesome Machine Learning frameworks, libraries and software. |
+| [Data Science](https://github.com/academic/awesome-datascience) | 29.8k | 5d ago | 1,364 | :memo: An awesome Data Science repository to learn and apply for real world problems. |
+| [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) `Python` | 74.0k | 4d ago | 2,144 | A curated list of awesome Machine Learning frameworks, libraries and software. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | 6.4k | 10d ago | 259 | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |
-| [Cryptography](https://github.com/sobolevn/awesome-cryptography) | 7.1k | 1mo ago | 210 | A curated list of cryptography resources and links. |
-| [Generative AI](https://github.com/steven2358/awesome-generative-ai) | 12.5k | 11d ago | 562 | A curated list of modern Generative Artificial Intelligence projects and services. |
+| [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | 6.4k | 11d ago | 259 | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. |
+| [Generative AI](https://github.com/steven2358/awesome-generative-ai) | 12.5k | 12d ago | 562 | A curated list of modern Generative Artificial Intelligence projects and services. |
 
 ### Updated in the last 6 months
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
+| [Cryptography](https://github.com/sobolevn/awesome-cryptography) | 7.1k | 1mo ago | 210 | A curated list of cryptography resources and links. |
 | [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr) | 488 | 2mo ago | 124 | A curated repository of software engineering repository mining data sets. |
 | [Open Source Society University](https://github.com/ossu/computer-science) `HTML` | 208.0k | 1mo ago | 1,109 | 🎓 Path to a free self-taught education in Computer Science! |
 | [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis) `Rust` | 14.7k | 2mo ago | 9,283 | ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. |
@@ -501,15 +501,15 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) | 8.9k | 27d ago | 429 | A curated list of data engineering tools for software developers. |
-| [Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | 78.1k | 10d ago | 928 | A topic-centric list of HQ open datasets. |
+| [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) | 9.0k | 28d ago | 429 | A curated list of data engineering tools for software developers. |
+| [Public Datasets](https://github.com/awesomedata/awesome-public-datasets) | 78.1k | 11d ago | 928 | A topic-centric list of HQ open datasets. |
 
 ### Updated in the last 6 months
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [Apache Spark](https://github.com/awesome-spark/awesome-spark) `Shell` | 1.9k | 5mo ago | 263 | A curated list of awesome Apache Spark packages and resources. |
-| [Network Analysis](https://github.com/briatte/awesome-network-analysis) `R` | 4.1k | 3mo ago | 425 | A curated list of awesome network analysis resources. |
+| [Network Analysis](https://github.com/briatte/awesome-network-analysis) `R` | 4.1k | 4mo ago | 425 | A curated list of awesome network analysis resources. |
 
 ### Updated more than a year ago
 
@@ -531,14 +531,14 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Math](https://github.com/rossant/awesome-math) `Python` | 16.1k | today | 347 | A curated list of awesome mathematics resources. |
+| [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) `Python` | 15.8k | today | 229 | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
+| [Math](https://github.com/rossant/awesome-math) `Python` | 16.1k | 1d ago | 347 | A curated list of awesome mathematics resources. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) `Python` | 15.8k | 11d ago | 226 | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
-| [VLM Architectures](https://github.com/gokayfem/awesome-vlm-architectures) `Markdown` | 1.3k | 14d ago | 259 | Curated visual catalog of 155+ vision-language model (VLM/MLLM) architectures: papers, diagrams, training recipes, datasets, and a release timeline for multimodal AI agents. |
+| [VLM Architectures](https://github.com/gokayfem/awesome-vlm-architectures) `Markdown` | 1.3k | 15d ago | 259 | Curated visual catalog of 155+ vision-language model (VLM/MLLM) architectures: papers, diagrams, training recipes, datasets, and a release timeline for multimodal AI agents. |
 
 ### Updated in the last 6 months
 
@@ -555,7 +555,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 |:---|---:|:---:|---:|:---|
 | [Algorithm Visualizations](https://github.com/enjalot/algovis) | 1.8k | 3y ago | 51 | collection of projects and links about algorithm visualization. |
 | [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) | 14.1k | 1y ago | 362 | :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources. |
-| [Complex Systems](https://github.com/sellisd/awesome-complexity) | 292 | 1y ago | 59 | An awesome list of complex systems science resources. |
+| [Complex Systems](https://github.com/sellisd/awesome-complexity) | 293 | 1y ago | 59 | An awesome list of complex systems science resources. |
 | [Education](https://github.com/gaerae/awesome-algorithms-education) | 900 | 3y ago | 41 | A curated list to learning and practicing about algorithm. |
 | [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) | 1.3k | 2y ago | 65 | Resources for learning and using recursion schemes. |
 | [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization) | 2.8k | 1y ago | 189 | 🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques. |
@@ -572,7 +572,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) `Python` | 394.4k | 3d ago | 10,136 | :books: Freely available programming books. |
+| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) `Python` | 394.5k | 4d ago | 10,136 | :books: Freely available programming books. |
 
 ### Updated in the last 6 months
 
@@ -600,7 +600,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Neovim](https://github.com/rockerBOO/awesome-neovim) `Shell` | 21.3k | today | 2,177 | Collections of awesome neovim plugins. |
+| [Neovim](https://github.com/rockerBOO/awesome-neovim) `Shell` | 21.3k | today | 2,178 | Collections of awesome neovim plugins. |
 
 ### Updated in the last 6 months
 
@@ -622,21 +622,21 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Game Datasets](https://github.com/leomaurodesenv/game-datasets) | 1.1k | 7d ago | 90 | :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games. |
-| [Game Development](https://github.com/ellisonleao/magictools) `Markdown` | 17.1k | 4d ago | 551 | :video_game: :pencil: A list of Game Development resources to make magic happen. |
-| [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev) | 1.4k | today | 399 | Awesome list of resources for Game Engine Development. |
-| [Open Source Games](https://github.com/michelpereira/awesome-open-source-games) | 3.0k | today | 791 | Collection of Games that have the source code available on GitHub. |
+| [Game Development](https://github.com/ellisonleao/magictools) `Markdown` | 17.1k | 5d ago | 551 | :video_game: :pencil: A list of Game Development resources to make magic happen. |
+| [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev) | 1.4k | 1d ago | 399 | Awesome list of resources for Game Engine Development. |
+| [Open Source Games](https://github.com/michelpereira/awesome-open-source-games) | 3.0k | 1d ago | 791 | Collection of Games that have the source code available on GitHub. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft) `Just` | 318 | 12d ago | 242 | Useful libraries, programs, literature, and mods for ComputerCraft and its forks. |
-| [Game Boy Development](https://github.com/gbdev/awesome-gbdev) | 4.5k | 23d ago | 566 | A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs. |
-| [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) | 1.4k | 13d ago | 113 | Actively maintained open-source game remakes. |
-| [GameMaker](https://github.com/bytecauldron/awesome-gamemaker) | 494 | 25d ago | 261 | A curated list of awesome libraries, snippets, guides, and projects for GameMaker. |
-| [PICO-8](https://github.com/pico-8/awesome-PICO-8) | 3.1k | 17d ago | 215 | A curated list of awesome PICO-8 resources, carts, tools and more. |
-| [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas) | 477 | 10d ago | 293 | A curated list of awesome PlayCanvas assets, resources, and more. |
+| [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft) `Just` | 318 | 13d ago | 242 | Useful libraries, programs, literature, and mods for ComputerCraft and its forks. |
+| [Game Boy Development](https://github.com/gbdev/awesome-gbdev) | 4.5k | 24d ago | 566 | A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs. |
+| [Game Datasets](https://github.com/leomaurodesenv/game-datasets) | 1.1k | 8d ago | 90 | :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games. |
+| [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) | 1.4k | 14d ago | 113 | Actively maintained open-source game remakes. |
+| [GameMaker](https://github.com/bytecauldron/awesome-gamemaker) | 494 | 26d ago | 261 | A curated list of awesome libraries, snippets, guides, and projects for GameMaker. |
+| [PICO-8](https://github.com/pico-8/awesome-PICO-8) | 3.1k | 18d ago | 215 | A curated list of awesome PICO-8 resources, carts, tools and more. |
+| [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas) | 477 | 11d ago | 293 | A curated list of awesome PlayCanvas assets, resources, and more. |
 
 ### Updated in the last 6 months
 
@@ -644,7 +644,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 |:---|---:|:---:|---:|:---|
 | [Discord Communities](https://github.com/mhxion/awesome-discord-communities) `Python` | 3.6k | 3mo ago | 549 | A curated list of awesome Discord communities for programmers. |
 | [Flame](https://github.com/flame-engine/awesome-flame) | 1.4k | 1mo ago | 136 | An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more. |
-| [Game Production](https://github.com/vhladiienko/awesome-game-production) | 218 | 3mo ago | 118 | A curated list of awesome resources, related to game production process: books, articles, tools, project management stuff etc. |
+| [Game Production](https://github.com/vhladiienko/awesome-game-production) | 219 | 3mo ago | 118 | A curated list of awesome resources, related to game production process: books, articles, tools, project management stuff etc. |
 | [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding) | 2.1k | 4mo ago | 145 | A curated list of games that can teach you how to learn a programming language. |
 | [Godot](https://github.com/godotengine/awesome-godot) | 10.6k | 1mo ago | 515 | A curated list of free/libre plugins, scripts and add-ons for Godot. |
 | [LÖVE](https://github.com/love2d-community/awesome-love2d) `PowerShell` | 4.5k | 1mo ago | 674 | A curated list of amazingly awesome LÖVE libraries, resources and shiny things. |
@@ -688,16 +688,16 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Git Tips](https://github.com/git-tips/tips) `JavaScript` | 21.7k | 5d ago | 422 | Most commonly used git tips and tricks. |
-| [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins) `Shell` | 17.9k | today | 6,481 | A collection of ZSH frameworks, plugins, themes and tutorials. |
+| [Git Tips](https://github.com/git-tips/tips) `JavaScript` | 21.7k | 6d ago | 422 | Most commonly used git tips and tricks. |
+| [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins) `Shell` | 17.9k | 1d ago | 6,481 | A collection of ZSH frameworks, plugins, themes and tutorials. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps) `Shell` | 20.2k | 10d ago | 848 | 🖥 📊 🕹 🛠 A curated list of command line apps. |
-| [Dotfiles](https://github.com/webpro/awesome-dotfiles) | 10.8k | 19d ago | 122 | A curated list of dotfiles resources. |
-| [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) | 18.7k | 20d ago | 68 | List of useful Quick Look plugins for developers. |
+| [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps) `Shell` | 20.2k | 11d ago | 848 | 🖥 📊 🕹 🛠 A curated list of command line apps. |
+| [Dotfiles](https://github.com/webpro/awesome-dotfiles) | 10.8k | 20d ago | 122 | A curated list of dotfiles resources. |
+| [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) | 18.7k | 21d ago | 68 | List of useful Quick Look plugins for developers. |
 
 ### Updated in the last 6 months
 
@@ -736,7 +736,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Email Newsletters](https://github.com/zudochkin/awesome-newsletters) | 4.4k | 3mo ago | 561 | A list of amazing Newsletters. |
+| [Email Newsletters](https://github.com/zudochkin/awesome-newsletters) | 4.4k | 4mo ago | 561 | A list of amazing Newsletters. |
 | [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) `HTML` | 642 | 4mo ago | 777 | A curated list of podcasts we like to listen to. |
 
 ### Updated in the last year
@@ -758,19 +758,19 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [MongoDB](https://github.com/ramnes/awesome-mongodb) | 2.7k | 9d ago | 217 | :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications. |
-| [Supabase](https://github.com/lyqht/awesome-supabase) | 482 | 27d ago | 46 | Official awesome-list of Supabase Starters & Resources ⚡️. |
+| [MongoDB](https://github.com/ramnes/awesome-mongodb) | 2.7k | 10d ago | 217 | :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications. |
+| [Supabase](https://github.com/lyqht/awesome-supabase) | 482 | 28d ago | 46 | Official awesome-list of Supabase Starters & Resources ⚡️. |
 
 ### Updated in the last 6 months
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [Database Tools](https://github.com/mgramin/awesome-db-tools) | 5.3k | 2mo ago | 368 | Everything that makes working with databases easier. |
-| [HBase](https://github.com/rayokota/awesome-hbase) | 180 | 2mo ago | 53 | A curated list of awesome HBase projects and resources. |
+| [HBase](https://github.com/rayokota/awesome-hbase) | 180 | 3mo ago | 53 | A curated list of awesome HBase projects and resources. |
 | [MySQL](https://github.com/shlomi-noach/awesome-mysql) `Python` | 2.6k | 1mo ago | 255 | A curated list of awesome MySQL software, libraries, tools and resources. |
 | [PocketBase](https://github.com/benallfree/awesome-pocketbase) | 1.2k | 1mo ago | 122 | A collection of PocketBase community resources. |
 | [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) | 12.0k | 2mo ago | 765 | A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql. |
-| [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) `Python` | 3.1k | 2mo ago | 176 | A curated list of awesome tools for SQLAlchemy. |
+| [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) `Python` | 3.0k | 2mo ago | 176 | A curated list of awesome tools for SQLAlchemy. |
 
 ### Updated more than a year ago
 
@@ -803,16 +803,16 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) `Shell` | 5.1k | 1d ago | 196 | A curated list about Audio Visualization. |
+| [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) `Shell` | 5.1k | 2d ago | 196 | A curated list about Audio Visualization. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Audiovisual](https://github.com/stingalleman/awesome-audiovisual) | 266 | 24d ago | 114 | Curated list of audiovisual projects. |
-| [Fonts](https://github.com/brabadu/awesome-fonts) | 2.0k | 20d ago | 162 | Curated list of fonts and everything. |
-| [Icons](https://github.com/notlmn/awesome-icons) | 989 | 26d ago | 45 | A curated list of awesome downloadable SVG/PNG/Font icon projects. |
-| [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) | 1.2k | 8d ago | 56 | Curated list of everything awesome around pixel art. |
+| [Audiovisual](https://github.com/stingalleman/awesome-audiovisual) | 267 | 25d ago | 114 | Curated list of audiovisual projects. |
+| [Fonts](https://github.com/brabadu/awesome-fonts) | 2.0k | 21d ago | 162 | Curated list of fonts and everything. |
+| [Icons](https://github.com/notlmn/awesome-icons) | 989 | 27d ago | 45 | A curated list of awesome downloadable SVG/PNG/Font icon projects. |
+| [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) | 1.2k | 9d ago | 56 | Curated list of everything awesome around pixel art. |
 
 ### Updated in the last 6 months
 
@@ -849,15 +849,15 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Roadmaps](https://github.com/liuchong/awesome-roadmaps) | 7.2k | 11d ago | 88 | A curated list of roadmaps. |
-| [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers) `Markdown` | 7.7k | 9d ago | 724 | An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more. |
+| [Roadmaps](https://github.com/liuchong/awesome-roadmaps) | 7.2k | 12d ago | 88 | A curated list of roadmaps. |
+| [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers) `Markdown` | 7.7k | 10d ago | 724 | An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more. |
 
 ### Updated in the last 6 months
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [Certificates](https://github.com/PanXProject/awesome-certificates) | 5.5k | 1mo ago | 288 | Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business. |
-| [Hackathon](https://github.com/dribdat/awesome-hackathon) | 287 | 3mo ago | 70 | Platforms, tools, and guides for critical organizers 🌆. |
+| [Hackathon](https://github.com/dribdat/awesome-hackathon) | 288 | 3mo ago | 70 | Platforms, tools, and guides for critical organizers 🌆. |
 | [STEAM](https://github.com/RahulBirCodes/awesome-steam) | 258 | 3mo ago | 194 | An awesome list of resources for specific science, technology, engineering, art, and math (STEAM) classes that students and teachers can use to supplement their learning. |
 
 ### Updated in the last year
@@ -886,17 +886,16 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Android Security](https://github.com/ashishb/android-security-awesome) `Makefile` | 9.6k | 4d ago | 439 | A collection of android security related resources. |
-| [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | 1.2k | today | 4,898 | A curated list of annual cyber security reports. |
+| [Android Security](https://github.com/ashishb/android-security-awesome) `Makefile` | 9.6k | 5d ago | 439 | A collection of android security related resources. |
+| [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | 1.2k | today | 4,911 | A curated list of annual cyber security reports. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering) | 1.3k | 11d ago | 159 | Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization. |
-| [Incident Response](https://github.com/meirwah/awesome-incident-response) | 9.3k | 1mo ago | 529 | A curated list of tools for incident response. |
-| [Password Cracking](https://github.com/n0kovo/awesome-password-cracking) | 1.0k | 23d ago | 75 | A curated list of awesome tools, research, papers and other projects related to password cracking and password security. |
-| [Web Security](https://github.com/qazbnm456/awesome-web-security) `Python` | 13.7k | 11d ago | 534 | 🐶 A curated list of Web Security materials and resources. |
+| [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering) | 1.3k | 12d ago | 159 | Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization. |
+| [Password Cracking](https://github.com/n0kovo/awesome-password-cracking) | 1.1k | 24d ago | 75 | A curated list of awesome tools, research, papers and other projects related to password cracking and password security. |
+| [Web Security](https://github.com/qazbnm456/awesome-web-security) `Python` | 13.7k | 12d ago | 534 | 🐶 A curated list of Web Security materials and resources. |
 
 ### Updated in the last 6 months
 
@@ -905,6 +904,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks) | 621 | 2mo ago | 33 | Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021. |
 | [Fuzzing](https://github.com/cpuu/awesome-fuzzing) | 985 | 1mo ago | 175 | A curated list of awesome Fuzzing(or Fuzz Testing) for software security. |
 | [Honeypots](https://github.com/paralax/awesome-honeypots) `Python` | 10.5k | 2mo ago | 409 | an awesome list of honeypot resources. |
+| [Incident Response](https://github.com/meirwah/awesome-incident-response) | 9.3k | 1mo ago | 529 | A curated list of tools for incident response. |
 | [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence) | 307 | 4mo ago | 41 | A curated list of awesome malware persistence tools and resources. |
 | [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect) `HTML` | 121 | 2mo ago | 209 | OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs. |
 | [Suricata](https://github.com/satta/awesome-suricata) | 244 | 1mo ago | 68 | A curated list of awesome things related to Suricata. |
@@ -915,7 +915,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations) | 1.1k | 11mo ago | 310 | :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. |
-| [Security](https://github.com/sbilly/awesome-security) | 14.7k | 7mo ago | 515 | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. |
+| [Security](https://github.com/sbilly/awesome-security) | 14.8k | 7mo ago | 515 | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. |
 
 ### Updated more than a year ago
 
@@ -980,20 +980,20 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Internet of Things](https://github.com/HQarroum/awesome-iot) | 4.5k | 4d ago | 335 | 🤖 A curated list of awesome Internet of Things projects and resources. |
+| [Internet of Things](https://github.com/HQarroum/awesome-iot) | 4.5k | 5d ago | 335 | 🤖 A curated list of awesome Internet of Things projects and resources. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware) | 1.0k | 8d ago | 70 | 🛠Helpful items for making open source hardware projects. |
+| [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware) | 1.0k | 9d ago | 70 | 🛠Helpful items for making open source hardware projects. |
 
 ### Updated in the last 6 months
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [ADS-B](https://github.com/rickstaa/awesome-adsb) `HTML` | 374 | 1mo ago | 77 | 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things. |
-| [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv) | 685 | 5mo ago | 84 | Curated list of free software and hardware to build remote controlled copters and planes. |
+| [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv) | 687 | 5mo ago | 84 | Curated list of free software and hardware to build remote controlled copters and planes. |
 | [LIDAR](https://github.com/szenergy/awesome-lidar) | 1.3k | 5mo ago | 111 | 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators. |
 
 ### Updated in the last year
@@ -1023,14 +1023,14 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Billing](https://github.com/kdeldycke/awesome-billing) | 1.3k | today | 532 | 💰 Billing & Payments knowledge for cloud platforms. |
-| [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management) | 2.6k | today | 722 | 👔 How to transition from software development to engineering management. |
+| [Billing](https://github.com/kdeldycke/awesome-billing) | 1.3k | 1d ago | 532 | 💰 Billing & Payments knowledge for cloud platforms. |
+| [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management) | 2.6k | 1d ago | 722 | 👔 How to transition from software development to engineering management. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Developer-First Products](https://github.com/agamm/awesome-developer-first) | 1.8k | 9d ago | 307 | A curated list of awesome developer-first tools products. |
+| [Developer-First Products](https://github.com/agamm/awesome-developer-first) | 1.8k | 10d ago | 307 | A curated list of awesome developer-first tools products. |
 
 ### Updated in the last 6 months
 
@@ -1045,7 +1045,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup) | 6.8k | 6mo ago | 312 | Compiled list of links from "Ask HN: Where can I post my startup to get beta users?". |
+| [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup) | 6.9k | 6mo ago | 312 | Compiled list of links from "Ask HN: Where can I post my startup to get beta users?". |
 
 ### Updated more than a year ago
 
@@ -1062,7 +1062,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Niche Job Boards](https://github.com/tramcar/awesome-job-boards) | 1.8k | 16d ago | 570 |  |
+| [Niche Job Boards](https://github.com/tramcar/awesome-job-boards) | 1.8k | 17d ago | 570 |  |
 
 ### Updated in the last 6 months
 
@@ -1120,24 +1120,24 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) | 1.3k | 2d ago | 207 | A curated list of bitcoin services and tools for software developers. |
+| [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) | 1.4k | 3d ago | 207 | A curated list of bitcoin services and tools for software developers. |
 
 ### Updated in the last 6 months
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [ATProto](https://github.com/atblueprints/awesome-atproto) | 74 | 1mo ago | 26 | A curated list of awesome AT Protocol resources. |
+| [ATProto](https://github.com/atblueprints/awesome-atproto) | 75 | 1mo ago | 26 | A curated list of awesome AT Protocol resources. |
 | [Cosmos SDK](https://github.com/cosmos/awesome-cosmos) | 601 | 4mo ago | 173 | Collection of Cosmos related resources. |
 | [EOSIO](https://github.com/DanailMinchev/awesome-eosio) `Shell` | 87 | 4mo ago | 194 | :sunglasses: A curated list of awesome EOSIO resources for users and developers. |
 | [Mastodon](https://github.com/hyperupcall/awesome-mastodon) `Markdown` | 63 | 1mo ago | 248 | Curated list of awesome Mastodon-related stuff! |
-| [Tor](https://github.com/polycarbohydrate/awesome-tor) | 117 | 1mo ago | 172 | An awesome list all about Tor (The Onion Router). |
+| [Tor](https://github.com/polycarbohydrate/awesome-tor) | 118 | 1mo ago | 172 | An awesome list all about Tor (The Onion Router). |
 
 ### Updated in the last year
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai) | 1.2k | 6mo ago | 65 | A curated list of Blockchain projects for Artificial Intelligence and Machine Learning. |
-| [Stacks](https://github.com/friedger/awesome-stacks-chain) | 124 | 7mo ago | 87 | A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer. |
+| [Stacks](https://github.com/friedger/awesome-stacks-chain) | 124 | 8mo ago | 87 | A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer. |
 
 ### Updated more than a year ago
 
@@ -1160,17 +1160,12 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 ## Health and Social Science
 
-### Updated this week
-
-| Repository | Stars | Last Push | Commits | Description |
-|:---|---:|:---:|---:|:---|
-| [Digital History](https://github.com/maehr/awesome-digital-history) `JavaScript` | 348 | 7d ago | 204 | Find primary sources online and learn how to research history digitally. |
-
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities) `SCSS` | 402 | 22d ago | 125 | Software for humanities scholars using quantitative or computational methods. |
+| [Digital History](https://github.com/maehr/awesome-digital-history) `JavaScript` | 348 | 8d ago | 204 | Find primary sources online and learn how to research history digitally. |
+| [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities) `SCSS` | 402 | 23d ago | 125 | Software for humanities scholars using quantitative or computational methods. |
 
 ### Updated in the last 6 months
 
@@ -1184,7 +1179,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams) | 160 | 8mo ago | 96 | A hand-picked collection of the best lucid dreaming apps, devices, research papers, books, forums, discord servers, podcasts, games, movies, YouTube channels, and techniques. Find open-source projects, sleep tracking software, reality checks, mindfulness exercises, and everything you need to explore and master lucid dreaming. |
+| [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams) | 159 | 8mo ago | 96 | A hand-picked collection of the best lucid dreaming apps, devices, research papers, books, forums, discord servers, podcasts, games, movies, YouTube channels, and techniques. Find open-source projects, sleep tracking software, reality checks, mindfulness exercises, and everything you need to explore and master lucid dreaming. |
 
 ### Updated more than a year ago
 
@@ -1195,7 +1190,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) | 578 | 10y ago | 29 | A curated list of resources for building and promoting more compassionate engineering cultures. |
 | [Mental Health](https://github.com/dreamingechoes/awesome-mental-health) `HTML` | 3.6k | 1y ago | 133 | A curated list of awesome articles, websites and resources about mental health in the software industry. |
 | [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging) | 46 | 1y ago | 32 | Exploring, organizing, and analysing neuroimages (MR focus). |
-| [Transgender](https://github.com/cvyl/awesome-transgender) | 94 | 1y ago | 34 | A list of LGBTQ+ resources focussed on transgender individuals. |
+| [Transgender](https://github.com/cvyl/awesome-transgender) | 95 | 1y ago | 34 | A list of LGBTQ+ resources focussed on transgender individuals. |
 
 ## Events
 
@@ -1213,16 +1208,16 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Gatling](https://github.com/aliesbelik/awesome-gatling) | 80 | 5d ago | 102 | A collection of resources covering different aspects of Gatling load testing tool usage. |
-| [Playwright](https://github.com/mxschmitt/awesome-playwright) | 1.6k | 2d ago | 103 | A curated list of awesome tools, utils and projects using Playwright. |
+| [Gatling](https://github.com/aliesbelik/awesome-gatling) | 80 | 6d ago | 102 | A collection of resources covering different aspects of Gatling load testing tool usage. |
+| [Playwright](https://github.com/mxschmitt/awesome-playwright) | 1.6k | 3d ago | 103 | A curated list of awesome tools, utils and projects using Playwright. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [JMeter](https://github.com/aliesbelik/awesome-jmeter) `HTML` | 807 | 14d ago | 337 | A collection of resources covering different aspects of JMeter usage. |
-| [k6](https://github.com/grafana/awesome-k6) | 772 | 23d ago | 123 | A curated list of awesome tools, content and projects using k6. |
-| [Testing](https://github.com/TheJambo/awesome-testing) | 2.3k | 9d ago | 224 | A curated list of testing resources. |
+| [JMeter](https://github.com/aliesbelik/awesome-jmeter) `HTML` | 807 | 15d ago | 337 | A collection of resources covering different aspects of JMeter usage. |
+| [k6](https://github.com/grafana/awesome-k6) | 772 | 24d ago | 123 | A curated list of awesome tools, content and projects using k6. |
+| [Testing](https://github.com/TheJambo/awesome-testing) | 2.3k | 10d ago | 224 | A curated list of testing resources. |
 
 ### Updated in the last 6 months
 
@@ -1251,35 +1246,35 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) | 242 | 7d ago | 83 | A list of web-based interactive biological data visualizations. |
-| [Board Games](https://github.com/edm00se/awesome-board-games) `JavaScript` | 390 | 4d ago | 870 | A curated list of awesome and exceptional board games. Please contribute! |
-| [Claude Code](https://github.com/hesreallyhim/awesome-claude-code) `Python` | 52.3k | today | 1,536 | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins. |
-| [Computational Biology](https://github.com/inoue0426/awesome-computational-biology) `Python` | 153 | today | 306 | Awesome list of computational biology. |
-| [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) | 12.3k | 4d ago | 495 | A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources. |
-| [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture) | 554 | today | 53 | Read-only mirror of https://codeberg.org/lutzh/awesome-event-driven-architecture. |
-| [Falsehood](https://github.com/kdeldycke/awesome-falsehood) | 27.6k | today | 591 | 😱 Falsehoods Programmers Believe in. |
-| [Free for Developers](https://github.com/ripienaar/free-for-dev) `HTML` | 131.8k | today | 7,245 | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. |
-| [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli) | 495 | 1d ago | 191 | A curated list of awesome tools, extensions, and resources for Gemini CLI. |
-| [GraphQL](https://github.com/chentsulin/awesome-graphql) | 15.1k | 1d ago | 1,122 | Awesome list of GraphQL. |
-| [IRC](https://github.com/davisonio/awesome-irc) | 1.3k | 3d ago | 235 | A curated list of awesome IRC resources. |
+| [Board Games](https://github.com/edm00se/awesome-board-games) `JavaScript` | 390 | 5d ago | 870 | A curated list of awesome and exceptional board games. Please contribute! |
+| [Claude Code](https://github.com/hesreallyhim/awesome-claude-code) `Python` | 52.4k | today | 1,544 | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins. |
+| [Computational Biology](https://github.com/inoue0426/awesome-computational-biology) `Python` | 153 | 1d ago | 306 | Awesome list of computational biology. |
+| [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) | 12.3k | 5d ago | 495 | A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources. |
+| [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture) | 554 | 1d ago | 53 | Read-only mirror of https://codeberg.org/lutzh/awesome-event-driven-architecture. |
+| [Falsehood](https://github.com/kdeldycke/awesome-falsehood) | 27.6k | 1d ago | 591 | 😱 Falsehoods Programmers Believe in. |
+| [Free for Developers](https://github.com/ripienaar/free-for-dev) `HTML` | 131.9k | today | 7,249 | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. |
+| [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli) | 495 | today | 193 | A curated list of awesome tools, extensions, and resources for Gemini CLI. |
+| [GraphQL](https://github.com/chentsulin/awesome-graphql) | 15.1k | 2d ago | 1,122 | Awesome list of GraphQL. |
+| [IRC](https://github.com/davisonio/awesome-irc) | 1.3k | 4d ago | 235 | A curated list of awesome IRC resources. |
 | [Jupyter](https://github.com/markusschanta/awesome-jupyter) | 4.7k | today | 231 | A curated list of awesome Jupyter projects, libraries and resources. |
-| [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) | 1.7k | 6d ago | 269 | Curated list of LaTeX awesomeness. |
-| [Quarto](https://github.com/mcanouil/awesome-quarto) | 2.2k | 7d ago | 531 | A curated list of Quarto talks, tools, examples & articles! Contributions welcome! |
-| [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 312.7k | 2d ago | 7,071 | A list of Free Software network services and web applications which can be hosted on your own servers. |
+| [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) | 1.7k | 7d ago | 269 | Curated list of LaTeX awesomeness. |
+| [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 313.0k | 3d ago | 7,071 | A list of Free Software network services and web applications which can be hosted on your own servers. |
 
 ### Updated this month
 
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
-| [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners) | 88.4k | 20d ago | 973 | A list of awesome beginners-friendly projects. |
-| [Creative Coding](https://github.com/terkelg/awesome-creative-coding) `HTML` | 15.2k | 24d ago | 421 | Creative Coding: Generative Art, Data visualization, Interaction Design, Resources. |
-| [GeoJSON](https://github.com/tmcw/awesome-geojson) | 2.5k | 22d ago | 170 | GeoJSON utilities that will make your life easier. |
-| [Katas](https://github.com/gamontal/awesome-katas) | 3.1k | 29d ago | 75 | A curated list of code katas. |
-| [Readme](https://github.com/matiassingers/awesome-readme) | 21.3k | 18d ago | 418 | A curated list of awesome READMEs. |
-| [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing) `Python` | 1.6k | 25d ago | 258 | :sunglasses: Curated list of awesome software for numerical analysis and scientific computing. |
-| [Standards](https://github.com/donBarbos/awesome-standards) | 232 | 27d ago | 17 | A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else. |
-| [Transit](https://github.com/MobilityData/awesome-transit) | 1.8k | 21d ago | 676 | Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:. |
-| [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) | 353 | 22d ago | 179 | 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools. |
+| [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners) | 88.4k | 21d ago | 973 | A list of awesome beginners-friendly projects. |
+| [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations) | 243 | 8d ago | 83 | A list of web-based interactive biological data visualizations. |
+| [Creative Coding](https://github.com/terkelg/awesome-creative-coding) `HTML` | 15.2k | 25d ago | 421 | Creative Coding: Generative Art, Data visualization, Interaction Design, Resources. |
+| [GeoJSON](https://github.com/tmcw/awesome-geojson) | 2.5k | 23d ago | 170 | GeoJSON utilities that will make your life easier. |
+| [Katas](https://github.com/gamontal/awesome-katas) | 3.1k | 1mo ago | 75 | A curated list of code katas. |
+| [Quarto](https://github.com/mcanouil/awesome-quarto) | 2.2k | 8d ago | 531 | A curated list of Quarto talks, tools, examples & articles! Contributions welcome! |
+| [Readme](https://github.com/matiassingers/awesome-readme) | 21.3k | 19d ago | 418 | A curated list of awesome READMEs. |
+| [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing) `Python` | 1.6k | 26d ago | 258 | :sunglasses: Curated list of awesome software for numerical analysis and scientific computing. |
+| [Standards](https://github.com/donBarbos/awesome-standards) | 232 | 28d ago | 17 | A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else. |
+| [Transit](https://github.com/MobilityData/awesome-transit) | 1.8k | 22d ago | 676 | Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:. |
+| [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization) | 353 | 23d ago | 179 | 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools. |
 
 ### Updated in the last 6 months
 
@@ -1288,33 +1283,32 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller) | 426 | 1mo ago | 45 | A curated list of tools and resources for Amazon sellers. |
 | [Ansible](https://github.com/ansible-community/awesome-ansible) | 1.9k | 2mo ago | 151 | Awesome Ansible List. |
 | [Astrophotography](https://github.com/lunohodov/awesome-astrophotography) | 150 | 2mo ago | 147 | A curated list of resources related to astrophotography. |
-| [Awesome](https://github.com/sindresorhus/awesome) | 495.9k | 1mo ago | 1,206 | 😎 Awesome lists about all kinds of interesting topics. |
+| [Awesome](https://github.com/sindresorhus/awesome) | 496.2k | 1mo ago | 1,206 | 😎 Awesome lists about all kinds of interesting topics. |
 | [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) | 4.2k | 4mo ago | 271 | A curated list of awesome Bioinformatics libraries and software. |
 | [Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) | 192 | 5mo ago | 144 | A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions. |
 | [Calculators](https://github.com/xxczaki/awesome-calculators) | 264 | 4mo ago | 71 | 😎 A curated list of resources related to calculators! |
-| [Captcha](https://github.com/ZYSzys/awesome-captcha) `JavaScript` | 1.4k | 3mo ago | 44 | :key: Curated list of awesome captcha libraries and crack tools. |
-| [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) | 6.4k | 6mo ago | 86 | 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI. |
+| [Captcha](https://github.com/ZYSzys/awesome-captcha) `JavaScript` | 1.4k | 4mo ago | 44 | :key: Curated list of awesome captcha libraries and crack tools. |
 | [Citizen Science](https://github.com/dylanrees/citizen-science) | 324 | 3mo ago | 183 | 🔬 A repository of resources related to citizen, community-based and/or non-institutional science. |
 | [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd) | 2.0k | 4mo ago | 189 | continuous integration and continuous delivery. |
 | [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) `TypeScript` | 558 | 3mo ago | 94 | ✨ A curated list of awesome GitHub instructions, prompt, skills, MCPs and agent markdown files for enhancing your GitHub Copilot AI experience. |
 | [CSV](https://github.com/secretGeek/awesomeCSV) `PowerShell` | 942 | 2mo ago | 60 | 🕶️A curated list of awesome tools for dealing with CSV. |
 | [Food](https://github.com/jzarca01/awesome-food) | 243 | 5mo ago | 30 | A curated list of food related projects on Github. |
 | [Framer](https://github.com/podo/awesome-framer) | 622 | 4mo ago | 79 | A curated list of awesome things related to Framer prototyping tool. |
-| [GitHub Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) | 482 | 1mo ago | 175 | :neckbeard: Awesome list GitHub Wikis. |
+| [GitHub Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) | 483 | 1mo ago | 175 | :neckbeard: Awesome list GitHub Wikis. |
 | [JSON](https://github.com/burningtree/awesome-json) | 1.6k | 1mo ago | 286 | A curated list of awesome JSON libraries and resources. |
 | [Microservices](https://github.com/mfornos/awesome-microservices) | 14.5k | 2mo ago | 846 | A curated list of Microservice Architecture related principles and technologies. |
-| [Naming](https://github.com/gruhn/awesome-naming) | 1.4k | 1mo ago | 102 | A curated list for when naming things is done right. |
-| [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography) | 651 | 3mo ago | 48 | A list of awesome free open source software & libraries for photography. Also tools for video. |
+| [Naming](https://github.com/gruhn/awesome-naming) | 1.4k | 2mo ago | 102 | A curated list for when naming things is done right. |
+| [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography) | 653 | 3mo ago | 48 | A list of awesome free open source software & libraries for photography. Also tools for video. |
 | [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters) | 689 | 4mo ago | 102 | ⭐️ A curated list of companies that offer their services for free to Open Source projects. |
 | [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap) | 976 | 5mo ago | 180 | 😎 Curated list of awesome OpenSteetMap-projects. |
 | [Parasite](https://github.com/ecohealthalliance/awesome-parasite) | 62 | 2mo ago | 80 | A curated list of host-parasite information. |
 | [Quantified Self](https://github.com/woop/awesome-quantified-self) | 2.8k | 1mo ago | 229 | :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking. |
 | [Research Tools](https://github.com/emptymalei/awesome-research) | 2.7k | 2mo ago | 206 | :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]. |
 | [REST](https://github.com/marmelab/awesome-rest) | 3.9k | 3mo ago | 280 | A collaborative list of great resources about RESTful API architecture, development, test, and performance. |
-| [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) | 989 | 5mo ago | 98 | :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX. |
+| [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) | 990 | 5mo ago | 98 | :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX. |
 | [Steam](https://github.com/scholtzm/awesome-steam) | 570 | 4mo ago | 63 | 😎 A curated list of packages and resources regarding Steam development. |
 | [Steam Deck](https://github.com/airscripts/awesome-steam-deck) | 741 | 1mo ago | 95 | A curated list of awesome Steam Deck software, resources and more. |
-| [Stock Trading](https://github.com/shi-rudo/awesome-stock-trading) | 807 | 3mo ago | 139 | Curated list of resources for traders, such as tools, websites, and books related to trading stocks. |
+| [Stock Trading](https://github.com/shi-rudo/awesome-stock-trading) | 808 | 3mo ago | 139 | Curated list of resources for traders, such as tools, websites, and books related to trading stocks. |
 | [Tech Ethics](https://github.com/sampart/awesome-tech-ethics) | 50 | 2mo ago | 63 | Awesome list of resources for reducing the potential negative effects of technology on society, primarily focussed on what tech workers themselves can do. |
 | [TikZ](https://github.com/xiaohanyu/awesome-tikz) | 1.8k | 1mo ago | 44 | A curated list of awesome TikZ documentations, libraries and resources. |
 | [Urban & Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources) | 359 | 1mo ago | 526 | Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️. |
@@ -1329,6 +1323,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | Repository | Stars | Last Push | Commits | Description |
 |:---|---:|:---:|---:|:---|
 | [Agriculture](https://github.com/brycejohnston/awesome-agriculture) | 1.9k | 7mo ago | 111 | Open source technology for agriculture, farming, and gardening. |
+| [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) | 6.4k | 6mo ago | 86 | 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI. |
 | [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry) | 130 | 11mo ago | 13 | A curated list of awesome computational geometry visualizations, frameworks, and resources. |
 | [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info) | 164 | 8mo ago | 238 | Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms. |
 | [Earth](https://github.com/philsturgeon/awesome-earth) `JavaScript` | 1.4k | 6mo ago | 53 | "What can I do about the climate crisis?" Here are 326 things you can do. |
@@ -1355,7 +1350,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates) | 1.4k | 2y ago | 137 | Boilerplates for mobile and web apps. |
 | [Bots](https://github.com/hackerkid/bots) | 1.6k | 2y ago | 104 |  :zap: Tools for building bots. |
 | [ChatOps](https://github.com/exAspArk/awesome-chatops) | 981 | 4y ago | 74 | :robot: A collection of awesome things about ChatOps – managing operations through a chat. |
-| [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) | 879 | 2y ago | 140 | A curated list of Cheminformatics libraries and software. |
+| [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) | 880 | 2y ago | 140 | A curated list of Cheminformatics libraries and software. |
 | [Code Points](https://github.com/Codepoints/awesome-codepoints) | 777 | 2y ago | 41 | Awesome Code Points. |
 | [Colorful](https://github.com/Siddharth11/Colorful) | 1.3k | 1y ago | 72 | A curated list of awesome resources to choose your next color scheme. |
 | [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling) | 175 | 2y ago | 75 | A collection of awesome papers, articles and various resources on credit and credit risk modeling. |
@@ -1379,7 +1374,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 | [Ledger](https://github.com/sfischer13/awesome-ledger) | 156 | 4y ago | 50 | :star: Useful resources for the Ledger command-line accounting system. |
 | [Markdown](https://github.com/BubuAnabelas/awesome-markdown) | 952 | 1y ago | 90 | :memo: Delightful Markdown stuff. |
 | [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) `Shell` | 3.3k | 2y ago | 287 | 🚀 Awesome (free) web apps that work without login. |
-| [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers) | 1.2k | 4y ago | 133 | Talks, blog posts, and interviews about the experience of being an open source maintainer. |
+| [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers) | 1.2k | 5y ago | 133 | Talks, blog posts, and interviews about the experience of being an open source maintainer. |
 | [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) | 701 | 1y ago | 98 | :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more. |
 | [Prisma](https://github.com/catalinmiron/awesome-prisma) | 662 | 2y ago | 195 | A collection of awesome things regarding Prisma ecosystem. |
 | [Prometheus](https://github.com/roaldnefs/awesome-prometheus) | 86 | 2y ago | 116 | A curated list of awesome Prometheus resources, projects and tools. |
@@ -1419,7 +1414,7 @@ A comprehensive collection of curated lists covering programming, platforms, too
 
 This list is generated automatically from the [sindresorhus/awesome](https://github.com/sindresorhus/awesome) source list. Metadata is fetched from the GitHub API and refreshed daily.
 
-Last generated on 2026-08-15 06:50 UTC.
+Last generated on 2026-08-16 06:52 UTC.
 
 ## Contributing
 
